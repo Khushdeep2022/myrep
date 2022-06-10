@@ -1,0 +1,9 @@
+192.168.253.91
+orauat	orauat@123
+appluat	appluat@123
+
+
+df -h
+-
+for env
+cd /u02/24nov2021/. EBSapps.env
